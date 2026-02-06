@@ -1,0 +1,28 @@
+# 作業ファイル
+*.tmp
+*.bak
+*~
+
+# ログファイル
+*.log
+
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# 個人的なメモ（プライベート）
+private/
+personal-notes/
+
+# 実行ファイル
+*.exe
+*.out
+
+# 一時的な出力
+temp/
+output/temp/
+
+# AIモデルファイル（サイズ大）
+*.bin
+*.safetensors
+models/
